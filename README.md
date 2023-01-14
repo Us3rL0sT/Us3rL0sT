@@ -1,9 +1,8 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/IpSc0bp7LmGC4/giphy.gif" width="500"/>
 </div>
-<div id="body" align="center">
-<img src="https://komarev.com/ghpvc/?username=Us3rL0sT&style=flat-square&color=blue" alt=""/>
-</div>
+
+<img src="https://komarev.com/ghpvc/?username=Us3rL0sT&style=flat-square&color=red" alt=""/>
 <!--
 **Us3rL0sT/Us3rL0sT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
